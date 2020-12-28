@@ -102,7 +102,7 @@ header.sticky .jgec{
     color: #93a5be;
 }
 header.sticky ul li a{
-    color: rgb(240, 235, 235);
+    color: #fff;
 }
 
 header.sticky.dropdown-content
