@@ -57,7 +57,6 @@ header ul{
     color :#262833;
     justify-content: center;
     padding:auto;
-    
 }
 header ul li{
     position:relative;
@@ -97,15 +96,13 @@ header.sticky{
 }
 header.sticky .logo{
     color:#e6e7ee;
-    
-    
 }
 
 header.sticky .jgec{
     color: #93a5be;
 }
 header.sticky ul li a{
-    color:white;
+    color: black;
 }
 
 header.sticky.dropdown-content
@@ -143,7 +140,7 @@ header.sticky .links:hover{
     min-width: 160px;
     width: max-content;
     padding: 10px 0px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(138, 25, 25, 0.2);
     z-index: 1;
   }
 
@@ -151,7 +148,7 @@ header.sticky .links:hover{
   
   /* Links inside the dropdown */
   .dropdown-content a {
-    color: white;
+    color: black;
     padding: 12px 16px;
     
     text-decoration: none;
